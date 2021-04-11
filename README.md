@@ -5,5 +5,5 @@ Hi! I'm Trishal Muthan, a junior at Thomas Jefferson High School for Science and
 - 🌱 I’m currently learning lots of different languages and frameworks. I'm also learning algorithms, AI, and ML!
 - 👯 I’m looking to collaborate on lots of open source projects!
 - 📫 How to reach me: trishalmuthan@gmail.com
-- 😄 Pronouns: He, him
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I love watching and playing sports!
