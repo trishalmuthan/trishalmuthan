@@ -4,4 +4,4 @@ Hey! I’m Trishal Muthan. I’m a 4th-year computer science major at University
 - I'm happy to collaborate on projects! Feel free to reach out if your interested or just want to chat.
 - [https://trishalmuthan.me](https://trishalmuthan.me/)
 - Email: tmmuthan@gmail.com
-- Linkedin: linkedin.com/in/trishalmuthan
+- Linkedin: [https://www.linkedin.com/in/trishalmuthan/](https://www.linkedin.com/in/trishalmuthan/)
